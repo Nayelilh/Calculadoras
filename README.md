@@ -55,7 +55,7 @@ Esta versión integra una interfaz editable con EditText y validación de entrad
 ## Instrucciones de Ejecución
 
 1. Clonar el repositorio:
-git clone https://github.com/tuusuario/SE_CalculadoraEditable.git
+git clone (https://github.com/Nayelilh/Calculadoras.git)
 
 2. Abrir cualquiera de las carpetas del proyecto en Android Studio:
 - SE_CalculadoraBasicaa
