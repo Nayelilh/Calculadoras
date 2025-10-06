@@ -54,17 +54,10 @@ Esta versión integra una interfaz editable con EditText y validación de entrad
 
 ## Instrucciones de Ejecución
 
-1. Clonar el repositorio:
-git clone (https://github.com/Nayelilh/Calculadoras.git)
-
-2. Abrir cualquiera de las carpetas del proyecto en Android Studio:
-- SE_CalculadoraBasicaa
-- SE_CalculadoraJerarquica
-- SE_CalculadoraEditable
-
-3. Conectar un dispositivo físico o iniciar un emulador Android.
-
-4. Presionar **Run** para compilar y ejecutar la aplicación.
+1. Descargar y descomprimir el archivo **SE_Calculadoras.zip**.  
+2. Abrir el proyecto deseado en **Android Studio**.  
+3. Conectar un dispositivo físico o iniciar un emulador Android.  
+4. Ejecutar la aplicación con el botón **Run**.
 
 ---
 
