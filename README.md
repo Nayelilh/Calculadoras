@@ -68,23 +68,6 @@ git clone (https://github.com/Nayelilh/Calculadoras.git)
 
 ---
 
-## Estructura del Repositorio
-
-/
-├── SE_CalculadoraBasicaa/
-│ ├── app/
-├── SE_CalculadoraJerarquica/
-│ ├── app/
-├── SE_CalculadoraEditable/
-│ ├── app/
-└── README.md
-
-
-Cada carpeta contiene el código fuente completo y comentado dentro de:
-/app/src/main/java/
-
----
-
 ## Evidencia del Funcionamiento
 
 - Capturas de pantalla en la carpeta `/images` de cada versión.  
