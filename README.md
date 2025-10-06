@@ -64,7 +64,7 @@ Esta versión integra una interfaz editable con EditText y validación de entrad
 ## Evidencia del Funcionamiento
 
 - Capturas de pantalla en la carpeta `/images` de cada versión.  
-- Video demostrativo del funcionamiento general disponible en el enlace correspondiente.
+- Video demostrativo del funcionamiento general disponible en la carpeta `/grabaciones`
 
 ---
 
